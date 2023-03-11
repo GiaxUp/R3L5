@@ -68,7 +68,6 @@ export const searchFetch = (searchQuery) => {
       });
       if (response.ok) {
         let res = await response.json();
-        console.log("res" + res);
         dispatch({
           type: ADD_TO_SEARCH_RESULT,
           payload: res.data,
@@ -155,7 +154,6 @@ export const albumFetch = (albumId) => {
 
       if (response.ok) {
         let album = await response.json();
-        console.log(album);
         dispatch({
           type: ADD_TO_ALBUM,
           payload: album,

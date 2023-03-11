@@ -1,3 +1,4 @@
+// General
 .addToFav {
   border: none;
   background-color: transparent;
@@ -31,8 +32,7 @@ body {
   background: linear-gradient(90deg, rgb(63, 86, 119) 0%, rgba(33, 44, 61, 1) 42%, rgb(15, 21, 29) 100%);
 }
 
-/*MAIN PAGE SECTION*/
-
+// Home
 .mainLinks {
   margin-top: 1.5rem;
   justify-content: space-evenly;
@@ -149,8 +149,7 @@ a p {
   width: 200px;
 }
 
-/* BOTTOM PLAYER SECTION*/
-
+// Player
 .bg-container {
   height: 5.5rem;
   background-color: #282828;
@@ -191,7 +190,7 @@ a p {
   color: white;
 }
 
-/*SIDEBAR SECTION*/
+// Sidebar
 .navbar.fixed-left {
   position: fixed;
   top: 0;
