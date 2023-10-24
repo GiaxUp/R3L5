@@ -19,13 +19,10 @@ To get all the songs:
 I decided to hide my super secret token into an `.env` file, if you decide to fork this project remember to create one too!
 
 ## HomePage Screenshot
-![HomePage](https://i.ibb.co/dbThnBZ/home.png)
-
+![image](https://github.com/GiaxUp/R3L5/assets/40038797/e141bbbf-6a86-4b14-816a-5a4213dee0fa)
 ## Library Screenshot
-![Library](https://i.ibb.co/5knKBBN/library.png)
-
+![image](https://github.com/GiaxUp/R3L5/assets/40038797/d86d1e90-eea4-42b9-ba29-d93504a093e7)
 ## SearchBar Screenshot
-![SearchBar](https://i.ibb.co/Vm6ymFY/searchbar.png)
-
+![image](https://github.com/GiaxUp/R3L5/assets/40038797/1a735abb-dbe5-4cbb-a689-205615c12446)
 ## Album Screenshot (with player in action)
-![Album](https://i.ibb.co/Mg6KMVv/album-and-player.png)
+![image](https://github.com/GiaxUp/R3L5/assets/40038797/93405471-4e73-4add-9440-773cb535a4cc)
